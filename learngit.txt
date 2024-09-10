@@ -3,6 +3,4 @@ To test git;
 This is the first update;
 Do Nothing；
 TESTING；
-Test a New branch;
-How to fix a conflict?1;
-
+merge master and branch1;
