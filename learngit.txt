@@ -3,3 +3,4 @@ To test git;
 This is the first update;
 Do Nothing；
 TESTING；
+How to fix a conflict?2;
