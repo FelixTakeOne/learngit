@@ -4,3 +4,4 @@ This is the first update;
 Do Nothing；
 TESTING；
 Test a New branch;
+How to fix a conflict?1;
